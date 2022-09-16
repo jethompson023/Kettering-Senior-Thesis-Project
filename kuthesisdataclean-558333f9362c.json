@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kuthesisdataclean",
+  "private_key_id": "558333f9362c9001ef14976fe33b9908cf65bd0f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC44qi8LKsJFqTD\nwvyM+ehnxJN9J0i9N3PnjZeoya8fbX4TGUBiDG2kqDnTD5h8Y79GixSbsJlMOc5T\n8FM4C6WnGZlcLFayqw0RSn1UJ1xDzawnNQW+zTfzFCAl0YWo1z4dCdG7gdOEGNTd\nYZ501l7Bv9twRJuCzjkSfXXOGo841Xcmqx6fWJf0oBNMYuUSXR/mYmN6kqceGgYB\nVg0+uy7pUp1pkLjEZp4PM47ySpOvGNk1lUMJXKEu8xCfWkojANuQeXj3u0yI2MN8\npSYzt9uusRkO8yEJh29Ul7kw7Q5oabry4BBCo7cun2gxk//u2MSfluv5VRXykWIS\nVzwywGGtAgMBAAECggEAUDEv0v7k6LpDmQ2YEWXMIkYnWt+RM1E8GrFVmMZyCQWq\n64nGXUDaxdKZ0iwvjbSOIIDu3WDJ/UANeGcDEYorvcDivhIVQMXkkx1mIvw3jslE\n5HShG1NT80FFeGHawZMqw9mgeN4k6mUC30saOb9JtmwLODTp5uCf7J8yW8U1Xgaq\nXLxbeN3kFTrUk4OhoHJxCMXwLIaAkppFANc4/knPUdUSPy0hJI9YI7E4yNFpPU7n\n5bliTuh1IsgQFOB7PDbtNVGzdG/BlHaXv5JqyFGlbqJFKochcKTkfOcmQkiSToOG\n5SkVwkAikCnNcvyFHBqYytk8PhOEwPzaD2PrkvTl2QKBgQD6jfCW+FxiC9P/8/DJ\nRSy7tTQJZZ2M51xZG670amA68ky4ZwDw1mKZbIzj8x8NXRfBGMkyZC+v5ppOhm7a\n0vAtMxVP1oAQbQbkQqVz3CzcnoY2TlOLlOE8YkxelouqOo71yhgHgjtaotTDMZ4n\nEJam1C2FEIzdc/lZrVxZa+EqawKBgQC851fXjyAeCKbPp40ZC4bewCrCT6/7UFiP\ntUoRcvoW9wBh3V+GWh4Og7HZUotYp3yEcnL6nULzz6PARQsP8+FC9X3f1svVGQ/+\nCwXae74ZA/VSISUx2mTqG+wwEIeSHfzfID54gIVsztPn8TDoFRtB0quRK8Buog/7\nK/SJfCxaRwKBgD9jEW7gPl7/pw6l5FDHE14ZpaSK9KTlE1Pn0Qc8skO3cPll9bL4\nSdGOyMYSh9SVrKDJaH07I2VY7cjX8cuieei1d7rPBW8iZg/xXHJHTYIzCLlMb45s\nh98C71cutv7F+czs589efy2a7EDFmMFBTRu/qhRz729HG9o4JZjp1fkpAoGBAJ6R\nv84FqdssPgKPzkRYxbUUMJB93eajEkRH1M4C6uX+H0cHUdlwqkxaxh78SFZ5+W8g\nt12iRwJsqTOLgXa5rLzNYAVWxDG0YRVKYXZ+axuKlBKGGjfX8OAH4mKSbYr9Ozh9\nU5NJpzaoA39umjQnC4NceYJZ7KWxyqJ3ykTihESfAoGAdUKI9Dq+LWm2BQUB0nKm\nYehC9Bs9x/Q97xdCvO9LfG2iXJ2QTQSK95cnNA2P4HhNKypGPjmgHNWuM8JXTMxZ\nBSDvddQlkAhFKBSwBxSkG/yaUduLb1B9802XN3rGKklbLEhiWdChVf2e+dWipSKN\n0rwFydJByZz0edIuOhednqk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jupyter-accont1@kuthesisdataclean.iam.gserviceaccount.com",
+  "client_id": "114769432702248818573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jupyter-accont1%40kuthesisdataclean.iam.gserviceaccount.com"
+}
